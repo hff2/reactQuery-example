@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "unt aut facere repellat provident",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur"
+    },
+    {
+      "id": 2,
+      "title": "qui est esse",
+      "body": "st rerum tempore vitae\nsequi sint nihil"
+    },
+    {
+      "id": 3,
+      "title": "st rerum tempore vitae\nsequi sint nihil",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omni"
+    },
+    {
+      "id": "0ea09643-b473-450e-b66a-a11341de30ae",
+      "title": "2023-01-14T18:10:00.646Z",
+      "body": "test"
+    },
+    {
+      "id": "59093f05-e991-463d-8ad4-d0723ea32281",
+      "title": "2023-01-14T18:10:02.688Z",
+      "body": "test"
+    },
+    {
+      "id": "079772e0-7be1-4b0e-9150-b1ab54506ab8",
+      "title": "2023-01-14T18:10:05.003Z",
+      "body": "test"
+    },
+    {
+      "id": "efafbf00-da1f-476c-a520-f7dbd2257e37",
+      "title": "2023-01-14T18:10:06.868Z",
+      "body": "test"
+    },
+    {
+      "id": "f1a10be5-ad09-4cd7-a0d6-ad9fcdc1b5bb",
+      "title": "2023-01-14T18:11:26.805Z",
+      "body": "test"
+    },
+    {
+      "id": "713dcad2-b419-4668-aae7-c5f276cebb27",
+      "title": "2023-01-14T18:11:29.701Z",
+      "body": "test"
+    },
+    {
+      "id": "35f03997-a3ed-4064-8352-a69d30ddfdd3",
+      "title": "2023-01-14T18:11:32.226Z",
+      "body": "test"
+    }
+  ],
+  "ticket": [
+    {
+      "id": 1,
+      "title": "ticket",
+      "body": "ticket"
+    },
+    {
+      "id": 2,
+      "title": "ticket",
+      "body": "ticket"
+    }
+  ],
+  "idle": [
+    {
+      "id": 1,
+      "title": "idle",
+      "body": "idle"
+    },
+    {
+      "id": 2,
+      "title": "idle",
+      "body": "idle"
+    }
+  ]
+}
